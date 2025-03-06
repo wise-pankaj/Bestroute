@@ -1,4 +1,3 @@
-# Optimized Delivery Route
 
 ## Overview
 This project implements an optimized delivery route planning system using Java. The system ensures that the delivery executive (Aman) takes the shortest path while considering food preparation time, minimizing waiting time, and efficiently delivering food to consumers.
@@ -153,6 +152,4 @@ This project optimizes the food delivery route considering:
 - **Food preparation time**
 - **Parallel execution**
 - **Efficient pickup and delivery scheduling**
-
-Let me know if you need any modifications! 🚀
 
